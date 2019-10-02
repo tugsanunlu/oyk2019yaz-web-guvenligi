@@ -1,0 +1,7 @@
+### Özgür Yazılım Yaz Kampı 2019 Günlükleri #5
+
+Bugün tüm oturumları Hasan Emre Özer verdi. Sabah oturumunda dün akşam başladığı [**OSINT** **(Open Source Intelligence)**](https://en.wikipedia.org/wiki/Open-source_intelligence) pratiklerini anlatmaya devam etti. Dünkü dersin sonunda herkes tarafından bilinen bir internet sitesi hakkında kamuya açık bilgiler toplamak üzere ayrılmıştık sınıftan. Sabah dileyenler buldukları bilgileri sınıfla paylaştı ve hep birlikte bir tekrar daha yapıldı.
+
+Öğle oturumunda [**input**](https://en.wikipedia.org/wiki/Input_(computer_science)) kavramı üzerine uzun uzun tartışıldı. Farklı örnekler üzerinden çeşitlendirilerek somut hale getirildi. Hemen ardından da [**Cross-Site Scripting (XSS)**](https://en.wikipedia.org/wiki/Cross-site_scripting) konusuna başlandı. XSS zafiyetinin ne olduğunu ve türlerini kapsayan teorik bir anlatımdan sonra [**Web for Pentester**](https://www.pentesterlab.com/exercises/web_for_pentester/course) aracı üzerinden farklı zorluklarda XSS alıştırmaları yapıldı. Akşam oturumu da yine bu denemelerle tamamlandı.
+
+Yarınki akşam oturumu saatlerinde üniversitenin konferans salonunda sayısal kriptoloji konulu bir konferans -yanlış hatırlamıyorsam **Ali Aydın Selçuk** tarafından- verilecekmiş. Sanıyorum tüm sınıf olarak o konferansa katılacağız.
