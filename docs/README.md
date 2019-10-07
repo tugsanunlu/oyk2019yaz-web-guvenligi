@@ -16,7 +16,7 @@
 * [Özgür Yazılım Yaz Kampı 2019 Günlükleri #12](posts/gun-11.md)
 * [Özgür Yazılım Yaz Kampı 2019 Günlükleri #13](posts/gun-12.md)
 * [Özgür Yazılım Yaz Kampı 2019 Günlükleri #14](posts/gun-13.md)
-* [Özgür Yazılım Yaz Kampı 2019 Günlükleri #15](gposts/un-14.md)
+* [Özgür Yazılım Yaz Kampı 2019 Günlükleri #15](posts/gun-14.md)
 * [Özgür Yazılım Yaz Kampı 2019 Günlükleri #16](posts/gun-15.md)
 * [Özgür Yazılım Yaz Kampı 2019 Günlükleri #17](posts/gun-16.md)
 * [Özgür Yazılım Yaz Kampı 2019 Günlükleri #18](posts/gun-17.md)
