@@ -25,7 +25,8 @@ module.exports = {
       '/posts/gun-14',
       '/posts/gun-15',
       '/posts/gun-16',
-      '/posts/gun-17'
+      '/posts/gun-17',
+      '/posts/gun-18'
     ]
   } 
 } 
